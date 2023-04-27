@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <h1>Bienvenid@, mi nombre es Alex Candela<h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla ac neque at suscipit. Curabitur mattis vitae quam eu vehicula. Vestibulum sit amet sodales tortor, et posuere orci. Mauris pretium sapien nec justo ornare cursus. Morbi elit lectus, blandit vel imperdiet at, ultrices at sem. Pellentesque volutpat vel turpis vitae aliquam. Integer ac pharetra erat. Curabitur ultrices venenatis ante, non vestibulum risus lobortis quis. Morbi et lobortis lacus. Ut euismod nisi ultricies diam congue, vitae tempus turpis tincidunt. Maecenas volutpat viverra viverra.
-
-Nunc consectetur dui sit amet tristique lacinia. Aliquam et dolor at arcu ultricies dictum. Vestibulum porta eu sapien sed tempor. Donec a accumsan turpis, in laoreet mi. Phasellus nec mauris justo. Nulla nec dolor tempus, finibus dolor at, iaculis nibh. Pellentesque tincidunt quam nisi, et auctor nulla elementum sit amet. Praesent semper turpis lorem. Ut nec urna mi. Vivamus malesuada quam at dignissim auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus.<p>
+  <p>Estos son algunos de mis proyectos<p>
 
 <!--
 **alexcandela/alexcandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
