@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>Bienvenid@, mi nombre es Alex Candela<h1>
-  <p>Estos son algunos de mis proyectos<p>
+  <p>Link de mi WEB: (link)<p>
 
 <!--
 **alexcandela/alexcandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
